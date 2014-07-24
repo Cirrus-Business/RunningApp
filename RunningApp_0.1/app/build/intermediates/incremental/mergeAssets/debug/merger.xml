@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\AndroidAppStuff\GitRepositorys\RunningApp\RunningApp_0.1\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\AndroidAppStuff\GitRepositorys\RunningApp\RunningApp_0.1\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
